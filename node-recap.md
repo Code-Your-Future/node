@@ -28,6 +28,8 @@ Other than JavaScript, there are many programming languages you could use to wri
 
 Most backends exist to serve web frontends. Frontend programmers use JavaScript, so it's great to be able to write the backend with the same language: You only need to learn and remember one programming language to build "full stack" applications.
 
+➔ **Exercise: Express server that serves templated HTML**
+
 ### ...and other kinds of backends
 
 Node can be used to write backends for other kinds of apps as well:
@@ -38,6 +40,8 @@ Node can be used to write backends for other kinds of apps as well:
 Unline web frontends, apps and IoT devices aren't always written in JavaScript. But Node is still a good choice, for another reason: **Node is really good at handling many concurrent requests**.
 
 This is because Node is *event-driven*. We'll talk more about that when we recap how Node works under the hood.
+
+➔ **Exercise: Express server that serves JSON over HTTP**
 
 ### Command-line tools
 
@@ -52,3 +56,5 @@ create-react-app YourApp
 ```
 
 These days, almost every web developer uses command-line tools written in Node: `webpack`, `gulp`, `grunt`, `jest`, `browserify`, and thousands more are tools written in JavaScript, installed from NPM, and run in Node.
+
+➔ Exercise: **A tool that reads a JSON file and prints some summary data of it?**
