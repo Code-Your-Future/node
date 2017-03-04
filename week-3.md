@@ -1,4 +1,5 @@
-## WEEK 3 - hosting and deployment
+## WEEK 3
 
-Class
-- heroku
+Class materials are here: https://github.com/Code-Your-Future/node-cv-app
+
+Enjoy :D
